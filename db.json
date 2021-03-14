@@ -1,0 +1,87 @@
+{ 
+ "All": [{
+
+  "headerLinks": [ "Contagion", "Symptoms", "Prevention"],
+  "indexPage": {
+    "id": 1,
+    "title": "COVID-19 Alert",
+    "subtitle": "Stay at Home quarantine To stop Corona virus",
+    "description":
+      "There is no specific medicine to prevent or treat coronavirus disease (COVID-19). People may need supportive care to .",
+    "title2": "What Is Covid-19",
+    "subtitle2": "Coronavirus",
+    "description2":
+      "Corona viruses are a type of virus. There are many different kinds, and some cause disease. A newly identified type has caused a recent outbreak of respiratory illness now called COVID-19.Lauren Sauer, M.S., the director of operations with the Johns Hopkins Office of Critical Event Preparedness and Response"
+  },
+  "contagionPage":{
+    "id": 1,
+    "title": "Covid-19",
+    "subtitle": "Contagion",
+    "description":
+      "Corona viruses are a type of virus. There are many different kinds, and some cause disease.A newly identified type."
+  },
+      "cards": 
+      {
+        "title": "Air Transmission",
+        "description": "Objectively evolve tactical expertise before extensible initiatives. Efficiently simplify",
+        
+      
+        "title1": "Human Contacts",
+        "description1": "Washing your hands is one of thesimplest ways you can protect",
+        
+        
+        "title2": "Containted Objects",
+        "description2": "Use the tissue while sneezing,In this way, you can protect your droplets."
+      },
+        
+   
+  "symptompsPage": {
+    "title": "Covid-19",
+    "subtitle": "Symptomps",
+    "description":
+      "Corona viruses are a type of virus. There are many different kinds, and some cause disease. A newly identified type has caused a recent outbreak of respiratory"
+  },
+  "preventionPage": 
+    {
+      "id1": "01",
+      "title1": "Wear Masks",
+     "description1":
+        "Continually seize impactful vortals rather than future-proof supply chains. Uniquely exploit emerging niches via fully tested meta-services. Competently pursue standards compliant leadership skills vis-a-vis pandemic 'outside the box' thinking. Objectively"
+    ,
+      "id2": "02",
+      "title2": "Wash Your Hands",
+      "description2":
+        "Continually seize impactful vortals rather than future-proof supply chains. Uniquely exploit emerging niches via fully tested meta-services. Competently pursue standards compliant leadership skills vis-a-vis pandemic 'outside the box' thinking. Objectively"
+    ,
+      "id3": "03",
+      "title3": "Use nose - rag",
+      "description3":
+        "Continually seize impactful vortals rather than future-proof supply chains. Uniquely exploit emerging niches via fully tested meta-services. Competently pursue standards compliant leadership skills vis-a-vis pandemic 'outside the box' thinking. Objectively"
+    ,
+      "id4": "04",
+      "title4": "Avoid Contacts",
+      "description4":
+        "Continually seize impactful vortals rather than future-proof supply chains. Uniquely exploit emerging niches via fully tested meta-services. Competently pursue standards compliant leadership skills vis-a-vis pandemic 'outside the box' thinking. Objectively"
+    }
+  ,
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+]
+  
+}
